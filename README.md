@@ -2,7 +2,7 @@
 
 # Minute Paper Assignments for 431 in Fall 2026
 
-During the semester, Professor Love will set a series of "minute papers" which are brief surveys asking you to help us better understand how the class is going, and to let us remind you of some things. Minute Papers are always due on Wednesdays, at noon.
+During the semester, Professor Love will set approximately eight "minute papers" which are brief surveys asking you to help us better understand how the class is going, and to let us remind you of some things. Minute Papers are always due on Wednesdays, at noon.
 
 - You **should** complete the Minute Paper even if you weren't able to attend the most recent class.
 - Only Professor Love sees the results of the Minute Papers with identifying information. He then summarizes findings without identifying people and addresses those as part of the README discussion in the Thursday class when possible.
@@ -21,7 +21,6 @@ After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Fe
 15 (10-13) | 2026-10-14 | 
 21 (11-10) | 2026-11-11 | 
 23 (11-17) | 2026-11-18 | 
-25 (12-01) | 2026-12-02 | 
 
 </div>
 
