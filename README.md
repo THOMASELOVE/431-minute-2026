@@ -2,7 +2,7 @@
 
 # Minute Paper Assignments for 431 in Fall 2026
 
-During the semester, Professor Love will set approximately eight "minute papers" which are brief surveys asking you to help us better understand how the class is going, and to let us remind you of some things. Minute Papers are always due on Wednesdays, at noon. Minute Papers are designed to take between 1 and 15 minutes to complete.
+During the semester, Professor Love will set eight "minute papers" which are brief surveys asking you to help us better understand how the class is going, and to let us remind you of some things. Minute Papers are always due on Wednesdays, at noon. Minute Papers are designed to take between 1 and 15 minutes to complete.
 
 - You **should** complete the Minute Paper even if you weren't able to attend the most recent class.
 - Only Professor Love sees the results of the Minute Papers with identifying information. He then summarizes findings without identifying people and addresses those as part of the README discussion in the Thursday class when possible.
@@ -29,8 +29,8 @@ After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Fe
 ## Deadlines and Late Work
 
 - All Minute Paper deadlines are in the [Course Calendar](https://thomaselove.github.io/431-2026/calendar.html).
-- Completed Minute Papers receive a grade of 4 to 5 out of a possible 5 points if completed before the Wednesday noon deadline.
-- Any Minute Paper completed late, but before Thursday at noon (i.e. within 24 hours) will receive a grade no higher than 3.5 out of 5.
+- Completed Minute Papers receive a grade of 8 to 10 out of a possible 10 points if completed before the Wednesday noon deadline.
+- Any Minute Paper completed late, but before Thursday at noon (i.e. within 24 hours) will receive a grade no higher than 7 out of 10.
 - After Thursday at noon, we will no longer accept Minute Paper submissions.
 
 The main website for the Fall 2026 version of the 431 course is found at <https://thomaselove.github.io/431-2026>.
