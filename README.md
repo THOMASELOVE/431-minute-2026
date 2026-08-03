@@ -7,7 +7,10 @@ During the semester, Professor Love will set eight "minute papers". These are br
 - You **should** complete the Minute Paper even if you weren't able to attend the most recent class.
 - Only Professor Love sees the results of the Minute Papers with identifying information. He then summarizes findings without identifying people and addresses those as part of the README discussion in the Thursday class when possible.
 - Professor Love reserves the right to change the number of minute papers depending on how the class is going during the semester.
-- The links below will go live as they become available, usually the day before the minute paper is due.
+
+## Links to Materials
+
+The links below will go live as they become available, usually the day before the minute paper is due.
 
 <div align="center">
   
@@ -32,5 +35,6 @@ After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Fe
 - Completed Minute Papers receive a grade of 8 to 10 out of a possible 10 points if completed before the Wednesday noon deadline.
 - Any Minute Paper completed late, but before Thursday at noon (i.e. within 24 hours) will receive a grade no higher than 7 out of 10.
 - After Thursday at noon, we will no longer accept Minute Paper submissions.
+- For details on how Minute Papers affect your course grade, see the [Syllabus](https://thomaselove.github.io/431-syllabus-2026/11_grading.html).
 
 The main website for the Fall 2026 version of the 431 course is found at <https://thomaselove.github.io/431-2026>.
