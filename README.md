@@ -17,7 +17,7 @@ The links below will go live as they become available, usually the day before th
 After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Feedback
 :----------: | :------: | :---------------------: | :--------------------------:
 3 (09-01) | 2026-09-02 | <https://tinyurl.com/431-2026-minute-03> | <https://tinyurl.com/431-2026-feedback-min-03>
-5 (09-08) | 2026-09-09 | <https://tinyurl.com/431-2026-minute-05> | -- 
+5 (09-08) | 2026-09-09 | <https://tinyurl.com/431-2026-minute-05> | <https://tinyurl.com/431-2026-feedback-min-05> 
 7 (09-15) | 2026-09-16 | -- | --
 11 (09-29) | 2026-09-30 | -- | --
 13 (10-06) | 2026-10-07 | -- | --
