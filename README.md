@@ -24,7 +24,7 @@ After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Fe
 18 (10-27) | 2026-10-28 | <https://tinyurl.com/431-2026-minute-18> | <https://tinyurl.com/431-2026-feedback-min-18>
 21 (11-10) | 2026-11-11 | <https://tinyurl.com/431-2026-minute-21> | <https://tinyurl.com/431-2026-feedback-min-21>
 23 (11-17) | 2026-11-18 | <https://tinyurl.com/431-2026-minute-23> | <https://tinyurl.com/431-2026-feedback-min-23>
-25 (12-01) | 2026-12-02 | -- | --
+25 (12-01) | 2026-12-02 | <https://tinyurl.com/431-2026-minute-25> | --
 
 </div>
 
